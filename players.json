@@ -1,0 +1,424 @@
+{
+    "nome": "CBLoL 2023",
+    "times": [
+        {
+            "nome": "Los Grandes",
+            "cidade": "Desconhecida",
+            "jogadores": [
+                {
+                    "nome": "Hirit",
+                    "nacionalidade": "Coreano",
+                    "posicao": "Top Laner",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "Ranger",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "Jungler",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "Lava",
+                    "nacionalidade": "Coreano",
+                    "posicao": "Mid Laner",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "Netuno",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "ADC",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "Zay",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "Suporte",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                }
+            ]
+        },
+        {
+            "nome": "Furia",
+            "cidade": "Desconhecida",
+            "jogadores": [
+                {
+                    "nome": "FNB",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "Goot",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "Envy",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "Trigo",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "Redbert",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                }
+            ]
+        },
+        {
+            "nome": "INTZ",
+            "cidade": "Desconhecida",
+            "jogadores": [
+                {
+                    "nome": "Zzk",
+                    "nacionalidade": "Coreano",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "Yampi",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "NOsFeRus",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "NinjaKiwi",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "Nia",
+                    "nacionalidade": "Coreano",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                }
+            ]
+        },
+        {
+            "nome": "Kabum",
+            "cidade": "Desconhecida",
+            "jogadores": [
+                {
+                    "nome": "Lonely",
+                    "nacionalidade": "Coreano",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "Scary",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "Yuri",
+                    "nacionalidade": "Coreano",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "Duds",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "Scuro",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                }
+            ]
+        },
+        {
+            "nome": "Loud",
+            "cidade": "Desconhecida",
+            "jogadores": [
+                {
+                    "nome": "Robo",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "Croc",
+                    "nacionalidade": "Coreano",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "Tinowns",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "Route",
+                    "nacionalidade": "Coreano",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "Ceos",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                }
+            ]
+        },
+        {
+            "nome": "Vivo Keyd",
+            "cidade": "Desconhecida",
+            "jogadores": [
+                {
+                    "nome": "Guigo",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "Hugato",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "Grevthar",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "Mica0",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "Bounty",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                }
+            ]
+        },
+        {
+            "nome": "Pain Gaming",
+            "cidade": "Desconhecida",
+            "jogadores": [
+                {
+                    "nome": "Wizer",
+                    "nacionalidade": "Coreano",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "CarioK",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "dyNquedo",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "Bvoy",
+                    "nacionalidade": "Coreano",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "Prodelta",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                }
+            ]
+        },
+        {
+            "nome": "Red Canids",
+            "cidade": "Desconhecida",
+            "jogadores": [
+                {
+                    "nome": "Boal",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "Aegis",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "Avenger",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "Titan",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "Kuri",
+                    "nacionalidade": "Coreano",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                }
+            ]
+        },
+        {
+            "nome": "Fluxo",
+            "cidade": "Desconhecida",
+            "jogadores": [
+                {
+                    "nome": "Tay",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "Disamis",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "Hauz",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "Brance",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "Jojo",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                }
+            ]
+        },
+        {
+            "nome": "Liberty",
+            "cidade": "Desconhecida",
+            "jogadores": [
+                {
+                    "nome": "Kiari",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "Desconhecida",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "Accez",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "Jungler",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "Piloto",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "Mid Laner",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "Juliera",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "Jungler",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                },
+                {
+                    "nome": "Cavalo",
+                    "nacionalidade": "Brasileiro",
+                    "posicao": "Jungler",
+                    "idade": "Desconhecida",
+                    "habilidade": "Desconhecida"
+                }
+            ]
+        }
+    ]
+}
+    
+
+ 
+                
+
+
+
+
+
